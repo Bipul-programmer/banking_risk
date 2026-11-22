@@ -1,0 +1,32 @@
+# Python virtual environment
+venv/
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Large datasets
+datasets/raw/
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Environment variables
+.env
+.env.local
+
+# macOS
+.DS_Store
+datasets/processed/application_train_eda.csv
